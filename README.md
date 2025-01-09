@@ -6,16 +6,8 @@ Welcome to my repository of solutions and explorations for the Jane Street month
 
 ## Puzzle Progress
 
-| Year | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 2024 |     |     |     |     |     |     |     |     |     |     | ✅  |     |
-
-| 2024     |
-|------|-----|
-| Nov | ✅ |
-|------|-----|
-| Dec | ❌ |
-|------|-----|
-| 2025        |
-|------|-----|
-| Jan |     |
+| Jahr | Monat | Status |
+|------|-------|--------|
+| 2024 | Nov   |   ✅   |
+|      | Dec   |   ❌   |
+| 2025 | Jan   |        |
