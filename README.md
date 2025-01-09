@@ -11,7 +11,11 @@ Welcome to my repository of solutions and explorations for the Jane Street month
 | 2024 |     |     |     |     |     |     |     |     |     |     | ✅  |     |
 
 | 2024     |
+|------|-----|
 | Nov | ✅ |
+|------|-----|
 | Dec | ❌ |
-| 2025 |
+|------|-----|
+| 2025        |
+|------|-----|
 | Jan |     |
