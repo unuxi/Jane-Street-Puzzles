@@ -9,3 +9,9 @@ Welcome to my repository of solutions and explorations for the Jane Street month
 | Year | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 2024 |     |     |     |     |     |     |     |     |     |     | ✅  |     |
+
+| 2024     |
+| Nov | ✅ |
+| Dec | ❌ |
+| 2025 |
+| Jan |     |
