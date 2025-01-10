@@ -16,7 +16,7 @@ These insights led to the development of two complementary programs: a visualiza
 ## Visualization Tool
 
 ### Purpose and Implementation
-The visualization tool (`geometric_probability.py`) provides an interactive environment where users can explore the geometric properties of the problem. Users can place the blue point within the lower triangle of the unit square, observe a randomly generated red point, visualize the perpendicular bisector between the points, and see the quarter circles that define the boundary of valid red point positions.
+The visualization tool (`November24_test.py`) provides an interactive environment where users can explore the geometric properties of the problem. Users can place the blue point within the lower triangle of the unit square, observe a randomly generated red point, visualize the perpendicular bisector between the points, and see the quarter circles that define the boundary of valid red point positions.
 
 ### Mathematical Components
 The tool implements several key geometric calculations:
@@ -48,7 +48,7 @@ Through experimentation with the visualization tool, I discovered that for any b
 ## Exact Mathematical Solution
 
 ### Mathematical Framework
-The exact solution (`exact_solution.py`) calculates the probability through the following steps:
+The exact solution (`November24_result.py`) calculates the probability through the following steps:
 
 1. For any blue point (x, y) in the lower triangle, we calculate:
    ```
